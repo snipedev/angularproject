@@ -1,0 +1,94 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullname": "Anurag",
+      "contactPreference": "phone",
+      "email": "snipe@dell.com",
+      "phone": "9563444593",
+      "skills": [
+        {
+          "skillsName": "C#",
+          "experienceInYear": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillsName": "Java",
+          "experienceInYear": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillsName": "Angular",
+          "experienceInYear": 10,
+          "proficiency": "professional"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullname": "Sahil",
+      "contactPreference": "email",
+      "email": "anurag@dell.com",
+      "phone": 9563444593,
+      "skills": [
+        {
+          "skillsName": "C#",
+          "experienceInYear": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillsName": "Java",
+          "experienceInYear": 1,
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullname": "Sahil",
+      "contactPreference": "email",
+      "email": "anurag@dell.com",
+      "phone": 9563444593,
+      "skills": [
+        {
+          "skillsName": "C#",
+          "experienceInYear": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillsName": "Java",
+          "experienceInYear": 1,
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullname": "kilvish",
+      "contactPreference": "email",
+      "email": "andherakayamrahe@dell.com",
+      "phone": "666666",
+      "skills": [
+        {
+          "skillsName": "paap",
+          "experienceInYear": 89,
+          "proficiency": "professional"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullname": "gangadhar",
+      "contactPreference": "email",
+      "email": "shaktiman@dell.com",
+      "phone": "8797998959596",
+      "skills": [
+        {
+          "skillsName": "kundalini shakti",
+          "experienceInYear": 12,
+          "proficiency": "professional"
+        }
+      ]
+    }
+  ]
+}
